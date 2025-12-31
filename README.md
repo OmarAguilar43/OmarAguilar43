@@ -42,13 +42,13 @@ Hi, I'm Omar Aguilar 👋
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:TU_CORREO@gmail.com">
+	<a href="mailto:omaroaguilar43@gmail.com">
 		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+	<a href="https://www.linkedin.com/in/omar-aguilar-b9078b343">
 		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://github.com/TU_USERNAME">
+	<a href="https://github.com/OmarAguilar43">
 		<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" />
 	</a>
 </p>
