@@ -1,15 +1,15 @@
 <h1 align="center">
 Hi, I'm Omar Aguilar 👋
-	<a href="https://github.com/TU_USERNAME">
+	<a href="https://github.com/OmarAguilar43">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
 <p align="center">
-	<a href="https://github.com/TU_USERNAME">
+	<a href="https://github.com/OmarAguilar43">
 		<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 	</a>
-	<a href="https://github.com/TU_USERNAME">
+	<a href="https://github.com/OmarAguilar43">
 		<img src="https://img.shields.io/github/followers/TU_USERNAME?label=Followers" />
 	</a>
 </p>
