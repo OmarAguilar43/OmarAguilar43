@@ -5,14 +5,6 @@ Hi, I'm Omar Aguilar 👋
 	</a>
 </h1>
 
-<p align="center">
-	<a href="https://github.com/OmarAguilar43">
-		<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-	</a>
-	<a href="https://github.com/OmarAguilar43">
-		<img src="https://img.shields.io/github/followers/TU_USERNAME?label=Followers" />
-	</a>
-</p>
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;NestJS+%7C+Next.js+%7C+Vue.js;TypeScript+Focused;Building+real-world+projects;Always+learning&center=true&width=520&height=45">
