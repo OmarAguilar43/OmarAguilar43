@@ -85,19 +85,6 @@ Hi, I'm Omar Aguilar 👋
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarAguilar43&show_icons=true&theme=default" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAguilar43" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAguilar43&layout=compact&langs_count=8" />
-</p>
-
-
----
-
 ## 🚀 Let’s build something meaningful
 If you’re interested in collaboration, internships, or junior opportunities,  
 feel free to reach out — I’m always open to learning and building better software.
