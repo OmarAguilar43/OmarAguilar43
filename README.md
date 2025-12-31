@@ -87,13 +87,14 @@ Hi, I'm Omar Aguilar 👋
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarAguilar43&show_icons=true&theme=default" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAguilar43" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAguilar43&layout=compact&langs_count=8" />
 </p>
+
 
 ---
 
